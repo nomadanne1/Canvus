@@ -1,0 +1,5 @@
+[ Module Pattern ]
+Module Pattern이란 즉시 실행 함수 (Immediately Invoked Function)에 
+this 인자를 넘겨주고 함수 내부에서 exports란 인자로 접근 할 수 있는 패턴을 말한다.
+
+// 출처: https://asfirstalways.tistory.com/231
